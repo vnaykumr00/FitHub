@@ -1,4 +1,4 @@
-# FitYou : Body Fitness App
+# FitHub : Body Fitness App
 This is a Body Fitness App developed for Android using Jetpack Compose, MVVM architecture, and Kotlin Coroutines. The app is designed to help users track and improve their fitness levels, making it easier for them to achieve their health and fitness goals.
 
 ## Features
